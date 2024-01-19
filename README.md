@@ -1,11 +1,5 @@
-### <div align="center">I'm Miguel Aréjula, a Computer Science student 👨‍💻</div>  
-  
-
-
-  
-
+### <div align="center">I'm Miguel Aréjula, a Computer Science student 👨‍💻</div>    
 <br/>  
-
 
 ## I code with 
 <table><tr><td valign="top" width="33%">
@@ -59,8 +53,8 @@
 <a href="https://www.linkedin.com/in/miguel-ar%25C3%25A9jula-a%25C3%25ADsa-653088291/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<br />
+
 </div>  
 
 
-----
+
