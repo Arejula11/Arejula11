@@ -10,7 +10,7 @@
 
 ---
 
-### 🔧 Tech Stack
+###  Tech Stack
 
 - **Frontend**: Astro  | React  | JavaScript  | TailwindCSS   
 - **Backend**: Express.js | Python  | Go  | C++   
@@ -18,7 +18,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 Here are some of my highlighted repositories:
 
