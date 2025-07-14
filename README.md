@@ -1,44 +1,36 @@
-<h1 align="center"> Hey! I'm Miguel Aréjula </h1> 
+<h1 align="center">Hi there 👋, I'm Miguel Aréjula Aísa</h1>
 
-### <div align="center"> Computer Science student  </div>
-
-## I code with 
-
-
-<div align="center">  
-<p>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>    
+<p align="center">
+   Informatics Engineering student at the University of Zaragoza  
+  <br/>
+   Software Engineer in a research project at UNIZAR  
+  <br/>
+   Passionate about building modern web applications and exploring software architecture
 </p>
-</div>
 
+---
 
+### 🔧 Tech Stack
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/arejula11" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/arejula11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/miguel-ar%25C3%25A9jula-a%25C3%25ADsa-653088291/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+- **Frontend**: Astro  | React  | JavaScript  | TailwindCSS   
+- **Backend**: Express.js | Python  | Go  | C++   
+- **Tools**: Git & GitHub | VS Code | Linux | Docker
 
-</div>  
+---
 
+### 📌 Featured Projects
 
+Here are some of my highlighted repositories:
+
+- 🔗 [**are.dev**](https://github.com/Arejula11/are.dev): A blog dedicated to mastering software development — learn, build, and elevate your coding skills. Built with **Astro**.
+- 🧩 [**MyTemplates**](https://github.com/Arejula11/MyTemplates): A centralized collection of reusable GitHub templates for faster project bootstrapping.
+- 🎓 [**unizar-coursework-projects**](https://github.com/Arejula11/unizar-coursework-projects): Collection of academic projects completed during my Bachelor's in Informatics Engineering at UNIZAR.
+- 🎵 [**PlayBeat**](https://github.com/Arejula11/UNIZAR-30226-2024-03-PlayBeat): Interactive beat generator application created with Astro.
+- 📨 [**Message broker**](https://github.com/Arejula11/Practicass/tree/main/brokerMensajes): Message broker written in Go.
+- 🌾 [**AgroNET**](https://github.com/Arejula11/STW-24-25-Frontend): AgroNET is a collaborative web platform designed for farmers
+
+---
+### 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/miguel-arejula-aisa-653088291)
 
