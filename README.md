@@ -13,7 +13,7 @@
 ###  Tech Stack
 
 - **Frontend**: Astro  | React  | JavaScript  | TailwindCSS   
-- **Backend**: Express.js | Python  | Go  | C++   
+- **Backend**: Node.js | Express.js | Python  | Go  | C++   
 - **Tools**: Git & GitHub | VS Code | Linux | Docker
 
 ---
