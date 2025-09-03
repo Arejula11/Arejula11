@@ -12,9 +12,12 @@
 
 ###  Tech Stack
 
-- **Frontend**: Astro  | React  | JavaScript  | TailwindCSS   
-- **Backend**: Node.js | Express.js | Python  | Go  | C++   
-- **Tools**: Git & GitHub | VS Code | Linux | Docker
+- **Programming**: C | C++ | Java | Python | JavaScript | TypeScript | ARM | Haskell | Go
+- **Databases**: PostgreSQL | MongoDB
+- **Web**: HTML | CSS | TailwindCSS | React | Node.js | Express | Astro
+- **DevOps**: Docker | GitHub Actions
+- **Tools**: Git & Github | Visual Studio Code
+- **Deployment**: AWS | Vercel | Render | Railway | Azure
 
 ---
 
@@ -33,4 +36,5 @@ Here are some of my highlighted repositories:
 ### 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-arejula-aisa-653088291)
+- [My website](https://are-dev.es)
 
