@@ -3,9 +3,11 @@
 <p align="center">
    Informatics Engineering student at the University of Zaragoza  
   <br/>
-   Software Engineer in a research project at UNIZAR  
+   Currently studying a MSc in Software Engineering at the University of Southern Denmark
   <br/>
-   Passionate about building modern web applications and exploring software architecture
+   Worked as Software Engineer in a research project at UNIZAR  
+  <br/>
+   Passionate about exploring software architecture 
 </p>
 
 ---
