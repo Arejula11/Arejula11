@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Miguel Aréjula Aísa</h1>
 
 <p align="center">
-   Informatics Engineering student at the University of Zaragoza  
+   Informatics Engineering graduated at the University of Zaragoza  
   <br/>
    Currently studying a MSc in Software Engineering at the University of Southern Denmark
   <br/>
