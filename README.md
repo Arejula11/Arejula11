@@ -30,9 +30,9 @@ Here are some of my highlighted repositories:
 - 🔗 [**are.dev**](https://github.com/Arejula11/are.dev): A blog dedicated to mastering software development — learn, build, and elevate your coding skills. Built with **Astro**.
 - 🧩 [**MyTemplates**](https://github.com/Arejula11/MyTemplates): A centralized collection of reusable GitHub templates for faster project bootstrapping.
 - 🎓 [**unizar-coursework-projects**](https://github.com/Arejula11/unizar-coursework-projects): Collection of academic projects completed during my Bachelor's in Informatics Engineering at UNIZAR.
-- 🎵 [**PlayBeat**](https://github.com/Arejula11/UNIZAR-30226-2024-03-PlayBeat): Interactive beat generator application created with Astro.
-- 📨 [**Message broker**](https://github.com/Arejula11/Practicass/tree/main/brokerMensajes): Message broker written in Go.
-- 🌾 [**AgroNET**](https://github.com/Arejula11/STW-24-25-Frontend): AgroNET is a collaborative web platform designed for farmers
+- 🎵 [**PlayBeat**](https://github.com/UNIZAR-30226-2024-03): Interactive beat generator application created with Astro.
+- 📨 [**Message broker**](https://github.com/Practicass/brokerMensajes): Message broker written in Go.
+- 🌾 [**AgroNET**](https://github.com/STW-24-25): AgroNET is a collaborative web platform designed for farmers
 
 ---
 ### 📫 Connect with me
