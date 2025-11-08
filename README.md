@@ -28,6 +28,7 @@
 Here are some of my highlighted repositories:
 
 - 🔗 [**are.dev**](https://github.com/Arejula11/are.dev): A blog dedicated to mastering software development — learn, build, and elevate your coding skills. Built with **Astro**.
+- 📊 [**CSV Table Viewer**](https://marketplace.visualstudio.com/items?itemName=Arejula11.csv-table-viewer): A VS Code extension to instantly render CSV files as clean, sortable and filterable tables directly inside the editor.
 - 🧩 [**MyTemplates**](https://github.com/Arejula11/MyTemplates): A centralized collection of reusable GitHub templates for faster project bootstrapping.
 - 🎓 [**unizar-coursework-projects**](https://github.com/Arejula11/unizar-coursework-projects): Collection of academic projects completed during my Bachelor's in Informatics Engineering at UNIZAR.
 - 🎵 [**PlayBeat**](https://github.com/UNIZAR-30226-2024-03): Interactive beat generator application created with Astro.
@@ -39,4 +40,5 @@ Here are some of my highlighted repositories:
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-arejula-aisa-653088291)
 - [My website](https://are-dev.es)
+- [YouTube Channel](https://www.youtube.com/@are-dev)
 
