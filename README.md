@@ -14,9 +14,9 @@
 
 ###  Tech Stack
 
-- **Programming**: C | C++ | Java | Python | JavaScript | TypeScript | ARM | Haskell | Go
+- **Programming**: C | C++ | Java | Python | JavaScript | TypeScript| Go
 - **Databases**: PostgreSQL | MongoDB
-- **Web**: HTML | CSS | TailwindCSS | React | Node.js | Express | Astro
+- **Web**: HTML | CSS | TailwindCSS | React | Node.js | Express | Astro | FastAPI
 - **DevOps**: Docker | GitHub Actions
 - **Tools**: Git & Github | Visual Studio Code
 - **Deployment**: AWS | Vercel | Render | Railway | Azure
