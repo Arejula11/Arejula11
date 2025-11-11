@@ -9,7 +9,7 @@
   <br/>
    Passionate about exploring software architecture 
    <br/>
-   <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="color:#f97316; font-weight:bold; text-decoration:underline;">View my CV</a>
+   <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="color:#f97316; font-weight:bold; text-decoration:underline;">Check my CV</a>
 </p>
 
 ---
