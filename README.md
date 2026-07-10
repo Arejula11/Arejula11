@@ -7,6 +7,8 @@
   <br/>
    Worked as Software Engineer in a research project at UNIZAR  
   <br/>
+   Intern at MongoDB
+  <br/>
    Passionate about exploring software architecture 
    <br/>
    <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="color:#f97316; font-weight:bold; text-decoration:underline;">Check my CV</a>
