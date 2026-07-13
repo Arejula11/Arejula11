@@ -1,17 +1,17 @@
 <h1 align="center">Hi there 👋, I'm Miguel Aréjula Aísa</h1>
 
 <p align="center">
-   Informatics Engineering graduated at the University of Zaragoza  
-  <br/>
-   Currently studying a MSc in Software Engineering at the University of Southern Denmark
-  <br/>
-   Worked as Software Engineer in a research project at UNIZAR  
-  <br/>
-   Intern at MongoDB
-  <br/>
-   Passionate about exploring software architecture 
-   <br/>
-   <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="color:#f97316; font-weight:bold; text-decoration:underline;">Check my CV</a>
+  🚀 Industry Solutions Intern @ <strong>MongoDB</strong> <br />
+  🎓 MSc Software Engineering Student @ <strong>SDU</strong> <br />
+  <em>Informatics Engineering Graduate @ University of Zaragoza</em>
+</p>
+
+<p align="center">
+  ✨ Former Teaching Assistant at <strong>SDU</strong> & Software Engieer at <strong>UNIZAR</strong> <br />
+</p>
+
+<p align="center">
+  <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="background-color:#f97316; color:white; padding: 6px 12px; border-radius: 4px; font-weight:bold; text-decoration:none; display:inline-block; margin-top:10px;">📄 View My CV</a>
 </p>
 
 ---
