@@ -7,43 +7,20 @@
 </p>
 
 <p align="center">
-  ✨ Former Teaching Assistant at <strong>SDU</strong> & Software Engieer at <strong>UNIZAR</strong> <br />
+  ✨ Former Teaching Assistant at <strong>SDU</strong> & Software Engineer at <strong>UNIZAR</strong> <br />
 </p>
 
 <p align="center">
-  <a href="https://are-dev.es/cv/" target="_blank" rel="noopener noreferrer" style="background-color:#f97316; color:white; padding: 6px 12px; border-radius: 4px; font-weight:bold; text-decoration:none; display:inline-block; margin-top:10px;">📄 View My CV</a>
+  <a href="https://are-dev.es/cv/" target="_blank">
+    <img src="https://img.shields.io/badge/CV-101828?style=for-the-badge" alt="CV" />
+  </a>
+  <a href="https://are-dev.es" target="_blank">
+    <img src="https://img.shields.io/badge/are--dev.es-f97316?style=for-the-badge" alt="Website" />
+  </a>
+  <a href="https://www.youtube.com/@arejula11" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguel-arejula-aisa-653088291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
----
-
-###  Tech Stack
-
-- **Programming**: C | C++ | Java | Python | JavaScript | TypeScript| Go
-- **Databases**: PostgreSQL | MongoDB
-- **Web**: HTML | CSS | TailwindCSS | React | Node.js | Express | Astro | FastAPI
-- **DevOps**: Docker | GitHub Actions
-- **Tools**: Git & Github | Visual Studio Code
-- **Deployment**: AWS | Vercel | Render | Railway | Azure
-
----
-
-###  Featured Projects
-
-Here are some of my highlighted repositories:
-
-- 🔗 [**are.dev**](https://github.com/Arejula11/are.dev): A blog dedicated to mastering software development, learn, build, and elevate your coding skills. Built with **Astro**.
-- 📊 [**CSV Table Viewer**](https://marketplace.visualstudio.com/items?itemName=Arejula11.csv-table-viewer): A VS Code extension to instantly render CSV files as clean, sortable and filterable tables directly inside the editor.
-- 📙 [**ResumeMD**](https://github.com/Arejula11/ResumeMD): A script for generating a PDF CV from Markdown using a custom LaTeX template.
-- 🧩 [**MyTemplates**](https://github.com/Arejula11/MyTemplates): A centralized collection of reusable GitHub templates for faster project bootstrapping.
-- 🎓 [**unizar-coursework-projects**](https://github.com/Arejula11/unizar-coursework-projects): Collection of academic projects completed during my Bachelor's in Informatics Engineering at UNIZAR.
-- 🎵 [**PlayBeat**](https://github.com/UNIZAR-30226-2024-03): Interactive beat generator application created with Astro.
-- 📨 [**Message broker**](https://github.com/Practicass/brokerMensajes): Message broker written in Go.
-- 🌾 [**AgroNET**](https://github.com/STW-24-25): AgroNET is a collaborative web platform designed for farmers
-
----
-### 📫 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/miguel-arejula-aisa-653088291)
-- [My website](https://are-dev.es)
-- [YouTube Channel](https://www.youtube.com/@are-dev)
-
