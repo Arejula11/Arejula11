@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Miguel Aréjula Aísa</h1>
 
 <p align="center">
-  🚀 Industry Solutions Intern @ <strong>MongoDB</strong> <br />
+  🚀 SWE Industry Solutions Intern @ <strong>MongoDB</strong> <br />
   🎓 MSc Software Engineering Student @ <strong>SDU</strong> <br />
   <em>Informatics Engineering Graduate @ University of Zaragoza</em>
 </p>
